@@ -1,4 +1,4 @@
-# 📧 Modular HTML Email Design System
+# 📧 Reusable HTML Email Templates
 
 ### Cross-Platform Transactional & Marketing Templates
 
